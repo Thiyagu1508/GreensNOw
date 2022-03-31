@@ -34,20 +34,6 @@ public class Test {
 		
 		WebElement bttnLogin = driver.findElement(By.name("login"));
 		bttnLogin.click();
-		
-		
-		
-		
-		
-		
-		
-		
-		 
-		
+			
 	}
-	
-	
-	
-	
-
 }
